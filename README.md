@@ -1,8 +1,6 @@
 # Pedra, Papel & Tesoura
 
-    O popular jogo pedra, papel e tesoura desenvolvido com Java Script, HTML5 e CSS3
-
-🛠️ Construído -- Construido com Java Script, HMTL% e CSS3.
+🛠️ Construído -- Construido com Java Script, HMTL5 & CSS3.
 
 ✒️ Autores -- Mateus Jensen
 
