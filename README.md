@@ -1,6 +1,6 @@
 # Pedra, Papel & Tesoura
 
-🛠️ Construído -- Construido com Java Script, HMTL5 & CSS3.
+🛠️ Construído -- Construido com Java Script, HMTL & CSS.
 
 ✒️ Autores -- Mateus Jensen
 
